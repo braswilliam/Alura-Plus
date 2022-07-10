@@ -155,7 +155,6 @@ body {
 }
 
 .container__botao:hover {
-    background-color:transparent;
     color: var(--branco-principal);
     border: 1px solid var(--branco-principal);
 }
